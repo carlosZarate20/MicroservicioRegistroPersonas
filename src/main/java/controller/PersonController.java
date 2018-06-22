@@ -41,5 +41,4 @@ public class PersonController {
 		personService.deletePerson(id);
 	}
 	
-	
 }
